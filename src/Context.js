@@ -37,7 +37,7 @@ class MovieProvider extends Component{
         
     }
 
-    apiKey = '152b2e4a7d9b98407e4656d8fe2006ca'
+    apiKey = ''
     
     searchMovie = async () =>{
         this.setState({loading:true})
